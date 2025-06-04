@@ -1,0 +1,19 @@
+.venv/
+malicious_phish.csv
+extracted_features.csv
+saved_model.pkl
+url_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and IDE
+.env
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
